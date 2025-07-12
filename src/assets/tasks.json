@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Estudiar Angular",
+    "description": "Aprender cómo funciona Angular CLI y componentes.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Realizar prueba técnica",
+    "description": "Crear SPA con Angular para manejar tareas.",
+    "completed": true
+  }
+]
